@@ -7,7 +7,7 @@
 
 Este projeto é o código-fonte do curriculo online de Thiago Caetano , disponível em: https://github.com/ThiagoFullStack/Projeto-git
 
-<!-- ![Preview](https://github.com/tuliofaria/tuliofaria.dev/blob/master/print.png?raw=true)
+
 
 ## Início
 
@@ -40,7 +40,7 @@ rapidly building custom designs.
 
 ## Author:
 
-* **Tulio Faria** - [LinkedIn](https://www.linkedin.com/in/tuliofaria/)
+* **Thiago Caetano** - [LinkedIn](https://www.linkedin.com/in/thiagocb2-developer-fullstack/)
 
 
 ## Licença
@@ -49,4 +49,4 @@ Este projeto é licenciado sobre a licença MIT - veja [LICENSE.md](LICENSE.md) 
 
 ## Acknowledgments
 
-* Este projeto foi construído durante as aulas do Fullstack Master do [DevPleno](https://devpleno.com). -->
+* Este projeto foi construído durante as aulas do Fullstack Master do [DevPleno](https://devpleno.com).
