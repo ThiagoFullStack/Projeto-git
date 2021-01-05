@@ -1,4 +1,4 @@
-# ✅ Meu projeto Git
+# ✅ Meu primeiro projeto Git
 
 
 # ThiagoFullStack (resume) 💬
