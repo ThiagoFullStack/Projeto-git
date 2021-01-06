@@ -42,7 +42,7 @@ rapidly building custom designs.
 
 * 😎**Thiago Caetano** - [LinkedIn](https://www.linkedin.com/in/thiagocb2-developer-fullstack/)
 
-## 🧾Currículo
+## 📝 Currículo
 
 Meu currículo foi feito pelo Figma acesse: ( https://www.figma.com/file/eDRQxSaN9BZoYHFkQJ4fwG/Untitled?node-id=0%3A1 )
 
