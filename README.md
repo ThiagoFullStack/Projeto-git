@@ -44,7 +44,7 @@ rapidly building custom designs.
 
 ## 📝 Currículo
 
-Meu currículo foi feito pelo Figma acesse: [Currículo] ( https://www.figma.com/file/eDRQxSaN9BZoYHFkQJ4fwG/Untitled?node-id=0%3A1 )
+Meu currículo foi feito pelo Figma acesse: - [Currículo]( https://www.figma.com/file/eDRQxSaN9BZoYHFkQJ4fwG/Untitled?node-id=0%3A1 )
 
 ## 🧾Licença
 
