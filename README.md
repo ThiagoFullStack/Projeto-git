@@ -1,4 +1,4 @@
-# ✅ Projeto-git
+# ✅ Meu primeiro projeto Git
 
 
 # ThiagoFullStack (resume) 💬
@@ -41,6 +41,11 @@ rapidly building custom designs.
 ## 🎮🎧 Author: ⚽💻 
 
 * 😎**Thiago Caetano** - [LinkedIn](https://www.linkedin.com/in/thiagocb2-developer-fullstack/)
+
+
+## 📝Currículo
+
+O currículo está localizado no Figma acesse ( https://www.figma.com/file/eDRQxSaN9BZoYHFkQJ4fwG/Untitled?node-id=0%3A1 ) ..
 
 
 ## 🧾Licença
