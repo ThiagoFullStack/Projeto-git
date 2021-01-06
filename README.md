@@ -42,6 +42,10 @@ rapidly building custom designs.
 
 * 😎**Thiago Caetano** - [LinkedIn](https://www.linkedin.com/in/thiagocb2-developer-fullstack/)
 
+## 🧾Currículo
+
+Meu currículo foi feito pelo Figma acesse: ( https://www.figma.com/file/eDRQxSaN9BZoYHFkQJ4fwG/Untitled?node-id=0%3A1 )
+
 ## 🧾Licença
 
 Este projeto é licenciado sobre a licença MIT - veja [LICENSE.md](LICENSE.md) para mais informações.
