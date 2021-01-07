@@ -1,6 +1,7 @@
 # ✅ Meu primeiro projeto Git
 
 
+
 # ThiagoFullStack (resume) 💬
 
 [![HitCount](https://hits.dwyl.com/ThiagoFullStack//Projeto-git.svg)](https://hits.dwyl.com/ThiagoFullStack/ThiagoFullStack/Projeto-git)
@@ -50,6 +51,6 @@ Meu currículo foi feito pelo Figma acesse: - [Currículo]( https://www.figma.co
 
 Este projeto é licenciado sobre a licença MIT - veja [LICENSE.md](LICENSE.md) para mais informações.
 
-## 🤩 Acknowledgments
+## 👨‍🎓 Acknowledgments 🎉
 
 * Este projeto foi construído durante as aulas do Fullstack Master do [DevPleno](https://devpleno.com).
