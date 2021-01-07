@@ -6,7 +6,7 @@
 
 [![HitCount](https://hits.dwyl.com/ThiagoFullStack//Projeto-git.svg)](https://hits.dwyl.com/ThiagoFullStack/ThiagoFullStack/Projeto-git)
 
-👍Este projeto é o código-fonte do curriculo online de Thiago Caetano , disponível em: https://github.com/ThiagoFullStack/Projeto-git
+👍Este projeto é o código-fonte do curriculo online de Thiago Caetano , disponível em:  - [Currículo]( https://www.figma.com/file/eDRQxSaN9BZoYHFkQJ4fwG/Untitled?node-id=0%3A1 )
 
 
 
@@ -42,10 +42,6 @@ rapidly building custom designs.
 ## 🎮🎧 Author: ⚽💻 
 
 * 😎**Thiago Caetano** - [LinkedIn](https://www.linkedin.com/in/thiagocb2-developer-fullstack/)
-
-## 📝 Currículo
-
-Meu currículo foi feito pelo Figma acesse: - [Currículo]( https://www.figma.com/file/eDRQxSaN9BZoYHFkQJ4fwG/Untitled?node-id=0%3A1 )
 
 ## 🧾Licença
 
