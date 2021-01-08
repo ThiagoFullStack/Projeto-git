@@ -8,7 +8,7 @@
 
 [![HitCount](https://hits.dwyl.com/ThiagoFullStack//Projeto-git.svg)](https://hits.dwyl.com/ThiagoFullStack/ThiagoFullStack/Projeto-git)
 
-📋 Este projeto é o código-fonte do curriculo online feito pelo Figma de Thiago Caetano , disponível em:  - [Currículo]( https://www.figma.com/file/eDRQxSaN9BZoYHFkQJ4fwG/Untitled?node-id=0%3A1 )
+📋 Este projeto é o código-fonte do curriculo online feito pelo Figma de Thiago Caetano , disponível em:  - [figma.com (curriculo)]( https://www.figma.com/file/eDRQxSaN9BZoYHFkQJ4fwG/Untitled?node-id=0%3A1 )
 
 
 
