@@ -4,6 +4,8 @@
 
 # ThiagoFullStack (resume) 💬
 
+![Welcome](/curriculo-png?raw=true)
+
 [![HitCount](https://hits.dwyl.com/ThiagoFullStack//Projeto-git.svg)](https://hits.dwyl.com/ThiagoFullStack/ThiagoFullStack/Projeto-git)
 
 📋 Este projeto é o código-fonte do curriculo online de Thiago Caetano , disponível em:  - [Currículo]( https://www.figma.com/file/eDRQxSaN9BZoYHFkQJ4fwG/Untitled?node-id=0%3A1 )
