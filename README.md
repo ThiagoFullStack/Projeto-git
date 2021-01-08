@@ -4,7 +4,7 @@
 
 # ThiagoFullStack (resume) 💬
 
-![Welcome](/pub/curriculo-png?raw=true)
+![Welcome](/curriculo-png?raw=true)
 
 [![HitCount](https://hits.dwyl.com/ThiagoFullStack//Projeto-git.svg)](https://hits.dwyl.com/ThiagoFullStack/ThiagoFullStack/Projeto-git)
 
